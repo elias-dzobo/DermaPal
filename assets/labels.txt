@@ -1,0 +1,7 @@
+0 sarcoidosis
+1 melanoma
+2 neutrophilic dermatoses
+3 acne vulgaris
+4 nematode infection
+5 photodermatoses
+6 allergic contact dermatitis
